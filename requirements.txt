@@ -1,0 +1,4 @@
+streamlit
+pyngrok
+PyPDF2
+mistralai
